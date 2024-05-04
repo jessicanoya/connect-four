@@ -7,7 +7,7 @@
 
 class Game {
   constructor(p1, p2) {
-    this.width = 6;
+    this.width = 7;
     this.height = 6;
     this.players = [p1, p2];
     this.currPlayer = p1; // active player: 1 or 2
